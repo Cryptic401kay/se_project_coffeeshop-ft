@@ -14,3 +14,7 @@ This is the second project of the fulltime Software Engineering program at Tripl
 ## Plan on improving the project
 
 Add your ideas here :)
+
+Project Name: Project CoffeeShop
+
+Description: This is a public website interface for the coffeeshop.
