@@ -54,3 +54,8 @@
 .footer__copyright {
   margin: 108px 0 0;
 }
+
+.footer__social-link:hover {
+  opacity: 70%;
+  transition: opacity 0.5s;
+}

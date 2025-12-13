@@ -35,7 +35,7 @@
   line-height: 30px;
 }
 
-.submit {
+.form__button {
  width: 100%;
  padding: 20px 0;
  margin-bottom: 32px;
@@ -50,6 +50,10 @@
  line-height: 20px;
 }
 
+.form__button:hover {
+  background-color: #3f96f3;
+  transition: background-color 0.5s;
+}
 .terms {
   display: flex;
   justify-content: center;
