@@ -58,7 +58,7 @@
   background-color: #3f96f3;
   transition: background-color 0.5s;
 }
-.terms {
+.form__label_type_checkbox {
   display: flex;
   justify-content: center;
   font-family: Inter, Arial, sans-serif;
