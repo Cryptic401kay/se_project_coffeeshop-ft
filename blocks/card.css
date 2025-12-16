@@ -20,7 +20,7 @@
   display: flex;
   justify-content: space-between;
   gap: 10px;
-  font-family: "Noto Serif", Arial, sans-serif; font-style: normal; font-weight: normal; font-size: 16px; line-height: 20px;
+  font-family: "Noto Serif", "Times New Roman", serif; font-style: normal; font-weight: normal; font-size: 16px; line-height: 20px;
 }
 
 .card__list-divider {
